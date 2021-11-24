@@ -7,7 +7,7 @@ public class Test {
 
 	
 	public void aa() {
-		System.out.println("000001111");
+		System.out.println("0000011asfasf11");
 	}
 	
 	public int getId() {
